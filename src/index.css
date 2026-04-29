@@ -29,13 +29,14 @@
   /* ── Primitives — raw palette values ──
    * These define the raw colour palette. They generate classes (e.g. bg-cream-50)
    * but you should avoid using them directly — use semantic tokens instead. */
-  --color-gray-900: #111;
-  --color-gray-700: #333;
-  --color-gray-500: #666;
-  --color-cream-50:  #f7f7f4;
-  --color-cream-100: #f2f1ed;
-  --color-cream-200: #e6e5e0;
-  --color-cream-300: #D8D6CE;
+  --color-gray-900: #3C4D2F;
+  --color-gray-700: #4A5B3A;
+  --color-gray-500: #7E906B;
+  /* Cream with a subtle green tint (still very light) */
+  --color-cream-50:  #F3F8F0;
+  --color-cream-100: #EAF2E4;
+  --color-cream-200: #DDEAD5;
+  --color-cream-300: #C8D7BE;
   --color-ink:       #26251e;
   --color-ink-50:    rgba(38, 37, 30, 0.5);
 
